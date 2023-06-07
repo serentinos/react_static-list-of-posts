@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,iBAAkB","file":"main.20ceafdd.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nhtml {\n  overflow-y: hidden;\n}\n"]}
